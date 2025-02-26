@@ -32,3 +32,6 @@
 
 <h3>Contact</h3>
 <p>For queries, email sonawaneraj128@gmail.com or connect on LinkedIn [www.linkedin.com/in/raj-sonawane96659].</p>
+
+<h2>Data Privacy</h2>
+Note: Due to privacy concerns, the actual dataset is not uploaded. A placeholder file (dataset.csv) is included. Contact me for more details.
