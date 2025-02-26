@@ -10,7 +10,7 @@
 
 <h3>Data Cleaning</h3>
 <li>Cleaned data using SQL</li>
-<li></li>Removed null values</li>
+<li>Removed null values</li>
 <li>Ignored empty "Arrival Timings At Destination"</li>
 
 <h3>Key Insights</h3>
